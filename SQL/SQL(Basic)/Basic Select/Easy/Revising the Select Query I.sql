@@ -1,4 +1,4 @@
-/* This query selects all columns from 'CITY' table */
+/* This query selects all columns/attributes from 'CITY' table */
 SELECT * 
 /* Specifies the table from which to retreive the data */
 FROM CITY 
